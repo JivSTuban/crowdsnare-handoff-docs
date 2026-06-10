@@ -14,15 +14,13 @@ The requested package should document:
   - WhatsApp/Gmail context capture.
   - Crowdsnare Signal Desk, the dashboard compiling work signals from communication sources.
 
-## Latest Website/UI Follow-Up
+## Latest Website/UI Status
 
-The latest website feedback is separate from this docs package and remains an open implementation item:
+The latest website feedback was handled separately from this docs package:
 
-- The LAR/ReVAI demo page needs another desktop polish pass.
-- Logo handling needs correction, preferably using the supplied SVG assets when available.
-- Demo box text needs better legibility.
-- Header background/image treatment needs review.
-- Responsiveness needs explicit QA across desktop and mobile.
+- The LAR/ReVAI demo page has been updated and rechecked on desktop and mobile.
+- The embedded demo form readability issue was fixed at the GHL form source.
+- The page and form work should stay separate from this broader handoff package.
 - The Crowdsnare internal test-drive page and LAR duplicate should remain separate:
   - Crowdsnare internal page: all dropdown/demo options.
   - LAR page: English/French only.

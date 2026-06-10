@@ -15,10 +15,10 @@
 - Visual GHL workflow bump/reminder conditions are harder to verify than n8n workflow nodes.
 - Product-level QA must be run per client and per channel before disabling old workflows.
 
-## Current Website/UI Risks
+## Website/UI Boundary
 
-- The LAR/ReVAI demo page still has open polish feedback around desktop layout, logo treatment, demo-box legibility, header background, and responsiveness.
-- The internal Crowdsnare all-options test page and the LAR English/French duplicate need to stay separate.
+- Website/demo-page changes are separate from this handoff package.
+- The internal Crowdsnare all-options test page and the LAR English/French duplicate should stay separate.
 - Exact domain ownership/access can block restoring a specific public URL even when local files are correct.
 
 ## Handoff Risks

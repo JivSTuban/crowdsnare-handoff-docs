@@ -23,7 +23,7 @@ This handoff package was compiled from existing repo docs, KB summaries, and a f
 A read-only message scan was performed to refresh the latest visible feedback. It confirmed:
 
 - The documentation/handoff request should include Crowdsnare, AI products, onboarding, subaccount/product setup automation, and internal projects.
-- The latest page feedback is an open UI polish item for the LAR/ReVAI demo page.
+- The latest page feedback belongs to the separate website/demo-page workstream, not this docs package.
 - No external reply was sent during this documentation pass.
 
 Raw scan artifacts are intentionally not included in this GitHub-ready folder.
